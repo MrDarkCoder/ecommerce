@@ -12,7 +12,7 @@
     "data:import": "node backend/seeder",
     "data:destory": "node backend/seeder -d"
   },
-  "author": "Blah",
+  "author": "sridhar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MrDarkCoder/ecommerce/issues"
